@@ -1,4 +1,4 @@
-# Data Science and Analytics Projects Repository 📈
+# Data Science and Analytics Repository 📈
 
 Welcome to my Data Science and Analytics Projects Repository! This space is dedicated to a range of projects and experiments I've embarked on to enrich my understanding and skills in data science and analytics. You'll discover projects that delve into complex data analysis, predictive modeling, statistical studies, and insightful visualizations.
 
